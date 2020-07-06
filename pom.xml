@@ -10,7 +10,7 @@
 
     <properties>
         <suite>all</suite>
-        <restassured.version>4.3.0</restassured.version>
+        <restassured.version>4.3.1</restassured.version>
         <testng.version>7.1.0</testng.version>
         <json.version>20200518</json.version>
         <lombok.version>1.18.12</lombok.version>
