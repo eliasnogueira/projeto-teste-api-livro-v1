@@ -18,7 +18,7 @@
         <junit.jupiter.version>5.7.0</junit.jupiter.version>
         <restassured.version>4.3.1</restassured.version>
         <json.version>20200518</json.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>1.18.16</lombok.version>
     </properties>
 
     <dependencies>
