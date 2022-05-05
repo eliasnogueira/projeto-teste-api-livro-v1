@@ -6,7 +6,7 @@
 
     <groupId>credito.api</groupId>
     <artifactId>projeto-teste-api-livro-v1</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.2-SNAPSHOT</version>
 
     <properties>
         <java.version>11</java.version>
@@ -15,10 +15,10 @@
         <maven.compiler.plugin>3.8.1</maven.compiler.plugin>
         <maven.surefire.plugin>3.0.0-M5</maven.surefire.plugin>
 
-        <junit.jupiter.version>5.8.0-M1</junit.jupiter.version>
-        <restassured.version>4.4.0</restassured.version>
-        <json.version>20210307</json.version>
-        <lombok.version>1.18.20</lombok.version>
+        <junit.jupiter.version>5.8.2</junit.jupiter.version>
+        <restassured.version>5.0.1</restassured.version>
+        <json.version>20220320</json.version>
+        <lombok.version>1.18.24</lombok.version>
     </properties>
 
     <dependencies>
